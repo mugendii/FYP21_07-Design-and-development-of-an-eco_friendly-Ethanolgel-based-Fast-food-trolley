@@ -1,0 +1,4 @@
+iakop/LiquidCrystal_I2C_ESP32@^1.1.6
+arduino-libraries/Stepper@^1.1.3
+bogde/HX711@^0.7.5
+waspinator/AccelStepper@^1.64
